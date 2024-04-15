@@ -10,8 +10,7 @@ public class Desafio {
         int opcao = 0;
         double receber;
         double envio;
-        String confirmacao;
-        double emprestimo;
+        ;
 
         System.out.println(String.format("""
                 ***************************************************
